@@ -1,0 +1,39 @@
+/* This is my new stylesheet */
+
+/*
+p {
+  color:#ff0000;
+  background-color: #0000FF;
+}
+*/
+h1{
+  color: #FFFFFF;
+  background-color: #80CBB3;
+}
+a:link {
+  color: #00ff00;
+}
+a:hover {
+  color: #ffff00
+}
+#specialid {
+  color: #00FF00
+  background-color: #000000;
+}
+
+.spanstlye{
+  color: #00FF00;
+  
+}
+#divexample {
+  color: #0000ff;
+  background-color: #FFFF00;
+}
+.speicalp {
+  color:#0000ff;
+  background-color: #FFFFFF;
+}
+footer {
+  color: #ffffff;
+  background-color: #FF0000;
+}
