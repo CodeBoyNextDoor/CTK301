@@ -1,0 +1,62 @@
+/* This is my new stylesheet */
+
+/*
+p {
+  color:#ff0000;
+  background-color: #0000FF;
+}
+*/
+title{
+  color: #FF3366;
+  background-color: #ff3366;
+}
+header{
+  color: #FFFFFF;
+  background-color: #80CBB3;
+}
+a:link {
+  color: #00ff00;
+}
+a:hover {
+  color: #ffff00;
+}
+#specialid {
+  color: #0404AE;
+  background-color: #04AE04;
+}
+
+.spanstlye{
+  color: #00FF00;
+
+}
+#divexample {
+  color: #FF3366;
+  background-color: #FF3366;
+}
+.speicalp {
+  color:#0000ff;
+  background-color: #FFFFFF;
+}
+footer {
+  color: #ffffff;
+  background-color: #FF0000;
+}
+li{
+  color: #FFFFFF;
+  background-color: #0404AE;
+}
+h1{
+  color: #FFFFFF;
+  background-color:#AEAE05;
+}
+h2{
+  color: #FFFFFF;
+  background-color: #AEAE04;
+}
+h3{
+  color: #FFFFFF;
+  background-color: #AEAE04;
+}
+p{
+  color: #9225F8;
+}
