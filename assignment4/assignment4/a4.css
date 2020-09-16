@@ -1,0 +1,106 @@
+/* This is my new stylesheet */
+
+/*
+*/
+title{
+  color: #FF3366;
+  background-color: #ff3366;
+}
+header{
+  color: #F9B815;
+  font-style: italic;
+  font-weight: normal;
+}
+a:link {
+  color: #00ff00;
+}
+a:hover {
+  color: #ffff00;
+}
+#specialid {
+  color: #0404AE;
+  background-color: #04AE04;
+}
+
+.spanstlye{
+  color: #00FF00;
+
+}
+#divexample {
+  color: #FF3366;
+  background-color: #FF3366;
+}
+.speicalp {
+  color:#0000ff;
+  background-color: #FFFFFF;
+}
+footer {
+  color: #ffffff;
+  background-color: #FF0000;
+}
+li{
+  color: #FFFFFF;
+  background-color: #0404AE;
+}
+h1{
+  color: #F9B815;
+  font-style: italic;
+  font-weight: normal;
+}
+h2{
+  color: #F9B815;
+  font-style: italic;
+  font-weight: normal;
+}
+h3{
+  color: #F9B815;
+  font-style: italic;
+  font-weight: normal;
+}
+p{
+  text-align: center;
+}
+.textcenter{
+  text-align: center;
+}
+body{
+  background-color: #cccccc;
+  background-image: url(isu.jpg);
+background-repeat:no-repeat;
+background-position: center center;
+}
+main{
+  background-color: #0000ff;
+}
+
+
+
+.textjustify{
+  text-align: justify;
+}
+
+
+.imgbox{
+  border: 20px solid #000000;
+  padding:100px 10px 10px 100px;
+  margin: 20px 20px 20px 20px;
+  background-color: #FFFFFF;
+  width:200px;
+}
+
+
+h4{
+  color: #F9B815;
+  font-style: italic;
+  font-weight: normal;
+}
+.customtext {
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.fontcombined{
+  font: bold 20px, sans-serif;
+}
