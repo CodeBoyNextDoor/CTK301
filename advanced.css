@@ -1,0 +1,54 @@
+/* CSS */
+
+.borderbottom{
+  border-bottom: 10px solid #7002DE;
+  font: bold 20 #DEDE02;
+color: #7002DE;
+}
+body{
+   background-image: linear-gradient(to bottom, #fbc400, #fbc400, #fbc400, #fbc400, #fbc400);
+
+}
+body{ font-size: 200%}
+.customtext{
+
+  font-family: Arial,helvetica,sans-serif;
+  font-weight: bold;
+  font-size: 20;
+  text-decoration-color:#DEDE02;
+}
+.fontcombined{
+  font: bold 20px Arial, helvetica, sans-serif;
+  color: #fb004d #ff0070 #fe009a, #e900ca #b900fb
+}
+
+
+
+
+h1{
+  font-weight: bold #fb004d #ff0070 #fe009a, #e900ca #b900fb;
+   border: 20px solid #fbc400;
+}
+.textspace{
+  letter-spacing: 40px;
+
+}
+.blockimg{
+  display: block;
+}
+a link{
+  color: #8634DF;
+}
+a{
+  color: #8634DF;
+}
+a hover{
+  color: #FB004D;
+
+}
+h1{
+  color: #fb004d, #ff0070, #fe009a, #e900ca, #b900fb);
+}
+.pixelwidth{
+  border: 10px solid #fbc400;
+}
