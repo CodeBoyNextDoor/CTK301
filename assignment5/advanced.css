@@ -2,11 +2,14 @@
 
 .borderbottom{
   border-bottom: 2px solid #7002DE;
-  font: impact 10 #DEDE02;
+  font: 15px impact, san-serif;
 color: #7002DE;
+
 }
 .bordertop{
   color: #8634DF;
+  font: 12px impact, san-serif;
+
 }
 body{
    background-image: linear-gradient(to bottom, #fbc400, #fbc400, #fbc400, #fbc400, #fbc400);
@@ -14,7 +17,7 @@ body{
 
 }
 body{ font-size: 200%}
-.ptfont{font-size: 16px;
+.pxfont{font-size: 16px;
 }
 
 .customtext{
@@ -31,8 +34,9 @@ body{ font-size: 200%}
 
 
 h1{
-  font-weight: bold #fb004d #ff0070 #fe009a, #e900ca #b900fb;
-   border: 20px solid #fbc400;
+  font-weight: bold;
+  color: #fb004d #ff0070 #fe009a, #e900ca #b900fb;
+   font: 20px impact;
 }
 .textspace{
   letter-spacing: 40px;
@@ -43,10 +47,12 @@ h1{
 }
 a link{
   color: #8634DF;
+  font: 10px impact,san-serif;
 }
 a{
   color: #8634DF;
   text-decoration: none
+
 }
 a:hover{
   color: #FB004D;
@@ -54,10 +60,12 @@ text-decoration: underline;
 }
 h1{
   color: #FB004D;
+  font: 100px impact, san-serif;
 }
 .pixelwidth{
   color: #FB004D;
-  width: 1000px;
+  width: 635px;
+font: 20px impact, san-serif;
 
 
 }
@@ -68,4 +76,8 @@ div{
 }
 span{
   color: #B900FB;
+}
+.imgbox{
+  border: 5px solid #fbc400;
+
 }
