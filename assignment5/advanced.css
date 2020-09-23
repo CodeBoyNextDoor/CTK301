@@ -1,0 +1,71 @@
+/* CSS */
+
+.borderbottom{
+  border-bottom: 2px solid #7002DE;
+  font: impact 10 #DEDE02;
+color: #7002DE;
+}
+.bordertop{
+  color: #8634DF;
+}
+body{
+   background-image: linear-gradient(to bottom, #fbc400, #fbc400, #fbc400, #fbc400, #fbc400);
+
+
+}
+body{ font-size: 200%}
+.ptfont{font-size: 16px;
+}
+
+.customtext{
+
+  font-family: impact;
+  text-decoration-color:#DEDE02;
+}
+.fontcombined{
+  font: bold 20px Arial, helvetica, sans-serif;
+  color: #fb004d #ff0070 #fe009a, #e900ca #b900fb
+}
+
+
+
+
+h1{
+  font-weight: bold #fb004d #ff0070 #fe009a, #e900ca #b900fb;
+   border: 20px solid #fbc400;
+}
+.textspace{
+  letter-spacing: 40px;
+
+}
+.blockimg{
+  display: block;
+}
+a link{
+  color: #8634DF;
+}
+a{
+  color: #8634DF;
+  text-decoration: none
+}
+a:hover{
+  color: #FB004D;
+text-decoration: underline;
+}
+h1{
+  color: #FB004D;
+}
+.pixelwidth{
+  color: #FB004D;
+  width: 1000px;
+
+
+}
+div{
+  border:1px solid #fbc400;
+  padding: 20px 20px 20px 20px;
+  background-color: #fbc400;
+}
+span{
+  color: #B900FB;
+}
