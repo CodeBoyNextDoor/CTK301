@@ -6,7 +6,7 @@ body{
 }
 div{
   background-color: #999999;
-  border:#0E0000;
+  border: 5px solid #000000;
   padding: 30px 30px 30px 30px;
   margin:30px 30px 30px 30px;
 
@@ -15,7 +15,7 @@ div{
   margin: 2em auto;
   padding: 0;
   width:1000px;
-  border: 1px solid #ff0000;
+  border: 5px solid #000000;
   background-color: #ffffff;
   display:grid;
   grid-template-rows: 100px auto 75px;
@@ -34,14 +34,14 @@ div{
 }
  .p1, .p2{
   font: Georgia;
-  text-align:left;
+  text-align:right;
   text-decoration: none;
   color: #000000;
 
 }
 .p1
   a:link{
-    font weight: bold;
+    font weight: bolder;
     color:#F91515;
     text-decoration: none;
 }
@@ -52,15 +52,15 @@ div{
 
 }
 .p1 a:hover{
-  color: #000000;
+  color: #0E2BED;
   text-decoration:underline;
-
+font-weight: bold;
 }
 
  .p2 a:hover{
-  color: #000000;
+  color: #0E2BED;
   text-decoration:underline;
-
+font-weight: bold;
 }
 
 
@@ -82,12 +82,11 @@ footer{
   background-color: #FD3F48;
   color: #FFFFFF;
   text-align: center;
-  padding: 30px 30px 30px 30px;
-  margin:30px 30px 30px 30px;
-  border: 2px solid #FFFFFF;
+
+  border: 5px solid #000000;
 }
 h1{
-  border: 2px solid #FFFFFF;
+  border: 5px solid #FFFFFF;
   grid-column: span 12;
   font-family:helvetica;
   font-weight: normal;
@@ -97,7 +96,7 @@ h1{
 h2{
   text-align: left;
   font-family: helvetica;
-  font-weight: normal;
+  font-weight:bold;
 }
 nav ul{
   list-style: none;
@@ -118,14 +117,15 @@ nav li{
 nav li a{
   color:#ffffff;
   padding: 10px;
-
+font-weight: bold;
   background-color: #cc0000;
 display: block;
 text-decoration: none;
 
 }
 nav li a:hover{
-  background-color: #f91515;
+  background-color: #D60609;
+  color: #FFFFFF;
 }
 .floatimage{
   margin: 20px;
