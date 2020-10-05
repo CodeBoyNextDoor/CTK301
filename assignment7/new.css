@@ -1,0 +1,86 @@
+/* CSS */
+#wrapper{
+  margin:  1em auto;
+  padding:0;
+  width:900px;
+  border:7px solid #0808B9;
+
+}
+body{
+  background-color: #999999;
+}
+nav ul{
+
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+nav li{
+  display: inline-block;
+  padding:10px;
+  border:1px solid #0808B9;
+  margin: 10px;
+  width:150px;
+  background-color: #0808b9;
+
+
+}
+nav li a{
+  color:#0860B9;
+  padding: 10px;
+  display: block;
+  background-image:linear-gradient(to bottom, #0042fb, #0086ff, #00b5ff, #00daff, #00fbe5);
+text-decoration: none;
+}
+nav li a:hover{
+ background-image: linear-gradient(to bottom, #062889, #004696, #00598d, #006779, #077369);
+}
+span{
+  font-weight: bold;
+
+  color: #ff0000;
+}
+footer{
+  background-color: #ff0000;
+}
+nav{
+  background-color:#0860B9;
+
+}
+h1{
+  background-image:linear-gradient(to bottom, #0042fb, #0086ff, #00b5ff, #00daff, #00fbe5);
+text-decoration: none;
+}
+h1 a{
+  text-decoration: none;
+}
+main{
+  background-color: #FFFFFF;
+}
+h2{
+  border-bottom: 3px solid #1623de;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  color:#1623de;
+  text-decoration: none;
+}
+.blockimg{
+  border: 3px solid #1623de;
+
+
+}
+.floatimage{
+  margin: 20px;
+  float: right;
+  border: 3px solid #1623de;
+}
+.floatimag{
+  margin: 10px;
+  float: left;
+  border: 3px solid #1623de;
+}
+.customtext{
+  text-align: justify;
+}
