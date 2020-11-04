@@ -47,7 +47,9 @@ text-decoration: none;
 font-family: sans-serif;
 }
 nav li a:hover{
-  background-image: linear-gradient(to right top, #e7b503, #eac200, #ebcf00, #ecdc00, #ebea00);}
+  background-image: linear-gradient(to right top, #e7b503, #eac200, #ebcf00, #ecdc00, #ebea00);
+  width:200px;
+  color: black;
 span{
   font-weight: bold;
 
@@ -69,6 +71,7 @@ h1{
 text-decoration: none;
 margin:0px;
 
+
 }
 h1 a{
   text-decoration: none;
@@ -88,6 +91,11 @@ h2{
   margin-right: 10px;
   color:#1623de;
   text-decoration: none;
+  font-family: filicudi-solid, sans-serif;
+
+  font-weight: 400;
+
+  font-style: normal;
 }
 .blockimg{
   border: 3px solid #1623de;
@@ -118,4 +126,13 @@ h2{
 }
 .p4{
   border: 1px solid;
+}
+nav a{
+  transition: background-color 1.0, width 2.0s, color 2.0;
+}
+main a{
+  color: blue;
+  text-decoration: none;
+  font-size: 48px;
+  transition:purple; 
 }
