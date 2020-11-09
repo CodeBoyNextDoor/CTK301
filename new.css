@@ -49,7 +49,8 @@ font-family: sans-serif;
 nav li a:hover{
   background-image: linear-gradient(to right top, #e7b503, #eac200, #ebcf00, #ecdc00, #ebea00);
   width:200px;
-  color: black;
+  color: black;}
+
 span{
   font-weight: bold;
 
@@ -128,11 +129,11 @@ h2{
   border: 1px solid;
 }
 nav a{
-  transition: background-color 1.0, width 2.0s, color 2.0;
+  transition: background-color 1.0s, width 2.0s, color 2.0s;
 }
 main a{
   color: blue;
   text-decoration: none;
   font-size: 48px;
-  transition:purple; 
+  transition:purple;
 }
